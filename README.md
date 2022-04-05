@@ -1,12 +1,10 @@
-# JustMyBlog|我的博客
-
-##Just My Blog档案馆
-
----
+# JustMyBlog档案馆
 
 ## 介绍
 
 Just My Blog是由Shiro和1812z共同运营的博客，用于记录有趣的事物。
+
+本仓库为备份节点，同时也提供静态访问功能（基于Hexo）。
 
 ## 作用说明
 
