@@ -6,6 +6,7 @@ FastCGI_Cache是Nginx的缓存模块，能够从Nginx层面实现网页静态化
 需要注意的是，由于FastCGI_Cache缓存了PHP请求，导致部分需要运行PHP的功能会失效，例如阅读量统计，所以请自行斟酌得失。
 
 下面是启用FastCGI_Cache的教程
+
 ---
 
 ## 创建缓存目录
