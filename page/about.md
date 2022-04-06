@@ -12,15 +12,15 @@
 
 ## 作者：
 
-* 1812z 前往个人页面
+* 1812z [传送门](https://justmyblog.net/1812z)
 
-* Shiro 前往个人页面
+* Shiro [传送门](https://justmyblog.net/shiro)
 
 ## 服务：
 
-萌图图床
+[萌图图床](https://img.moeblog.vip)
 
-状态监测
+[状态监测](https://status.moeblog.vip/)
 
 ## 捐赠清单：
 
@@ -39,18 +39,17 @@ TIME|NAME|￥
 
 ## 服务器信息：
 
-*服务商：腾讯云
-*配置：轻量 2H2G30M
-*程序：WordPress
-*服务：Nginx-tengine
-*环境：PHP 7.4 / MySQL 5.7
-*缓存：~~Fastcgi-cache~~ / Redis
+* 服务商：腾讯云
+* 配置：轻量 2H2G30M
+* 程序：WordPress
+* 服务：Nginx-tengine
+* 环境：PHP 7.4 / MySQL 5.7
+* 缓存：~~Fastcgi-cache~~ / Redis
 
 ## 鸣谢：
 
-由 LitePress 提供的：本土 WordPress 服务
+由LitePress提供的：本土 WordPress 服务
 
-由 Cravatar 提供的：本土 Gravatar 服务
+由Cravatar提供的：本土 Gravatar 服务
 
-由 小白-白 二次开发的：Kratos-pjax 主题
-前方施工中！待补充
+### 前方施工中！待补充
