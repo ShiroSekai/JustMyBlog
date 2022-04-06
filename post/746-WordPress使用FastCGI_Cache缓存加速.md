@@ -5,11 +5,11 @@ FastCGI_Cache是Nginx的缓存模块，能够从Nginx层面实现网页静态化
 
 需要注意的是，由于FastCGI_Cache缓存了PHP请求，导致部分需要运行PHP的功能会失效，例如阅读量统计，所以请自行斟酌得失。
 
+下面是启用FastCGI_Cache的教程
 ---
 
-> 我的服务器环境：TencentOS3+宝塔面板+Nginx-tengine
-
 ## 创建缓存目录
+> 我的服务器环境：TencentOS3+宝塔面板+Nginx-tengine
 手动创建以下两个目录，并设置权限为**755**。
 `/tmp/wpcache`
 `/tmp/wpcache/temp`
@@ -114,6 +114,7 @@ fastcgi_ignore_headers Cache-Control Expires Set-Cookie;
 |EXPIRED|缓存已过期|
 
 ---
+
 ## 安装WP缓存清除插件
 
 ### 登陆 WP 后台搜索并安装 `Nginx Helper` 插件
