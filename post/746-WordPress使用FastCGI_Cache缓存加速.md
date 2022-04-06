@@ -29,7 +29,7 @@ chmod 755 /tmp/wpcache/temp
 ## 修改网站配置
 ### 将以下代码插入网站配置的 `server` 块前面（注意不是 Nginx 配置！）
 
-```json
+```
 fastcgi_cache_path /tmp/wpcache levels=1:2 keys_zone=WORDPRESS:128m inactive=1d max_size=1G;
 fastcgi_temp_path /tmp/wpcache/temp;
 fastcgi_cache_key "$scheme$request_method$host$request_uri";
@@ -46,7 +46,7 @@ fastcgi_ignore_headers Cache-Control Expires Set-Cookie;
 
 ### 将以下代码插入网站配置 `#SSL-END` 注释后面
 
-```json
+```
   set $skip_cache 0;
         #post访问不缓存
         if ($request_method = POST) {
