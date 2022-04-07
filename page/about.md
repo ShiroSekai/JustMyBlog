@@ -10,9 +10,9 @@
 
 ## 作者：
 
-* 1812z [传送门](https://justmyblog.net/1812z)
+1812z [传送门](https://justmyblog.net/1812z)
 
-* Shiro [传送门](https://justmyblog.net/shiro)
+Shiro [传送门](https://justmyblog.net/shiro)
 
 ## 服务：
 
@@ -37,12 +37,12 @@ TIME|NAME|￥
 
 ## 服务器信息：
 
-* 服务商：腾讯云
-* 配置：轻量 2H2G30M
-* 程序：WordPress
-* 服务：Nginx-tengine
-* 环境：PHP 7.4 / MySQL 5.7
-* 缓存：~~Fastcgi-cache~~ / Redis
+服务商：腾讯云
+配置：轻量 2H2G30M
+程序：WordPress
+服务：Nginx-tengine
+环境：PHP 7.4 / MySQL 5.7
+缓存：~~Fastcgi-cache~~ / Redis
 
 ## 鸣谢：
 
